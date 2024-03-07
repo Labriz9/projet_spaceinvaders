@@ -1,0 +1,18 @@
+     
+- ennemi bonus qui apparait pdt la partie
+- icones sofistiquées
+
+Contraintes techniques :
+- rajouter  une file et une pile: deux* remove -> file et pile
+
+
+Améliorations possibles :
+- Augmenter la vitesse des Aliens lorsqu’ils sont moins nombreux.
+- Gérer le passage de la soucoupe
+- Créer plusieurs niveaux à votre jeu
+- Ajouter une image de fond (différente pour chaque niveau)
+- Gestion des meilleurs scores (avec inscription dans un fichier texte)
+- Permettre à l’utilisateur de changer les touches de contrôle
+- Mettre des cheat codes afin de gagner des vies supplémentaires
+- percution de projectiles
+
